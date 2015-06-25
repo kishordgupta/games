@@ -1,0 +1,33 @@
+package com.rhymes.game.entity.elements.testtileMenu;
+
+import com.rhymes.game.data.AssetConstants;
+import com.rhymes.game.entity.elements.testtile.LevelInfo;
+import com.rhymes.game.entity.elements.ui.Button;
+//import com.rhymes.game.stage.menus.MainMenu;
+import com.rhymes.ge.core.data.GlobalVars;
+import com.rhymes.ge.core.renderer.Point;
+import com.rhymes.helpers.Helper;
+
+public class ButtonBackToMainmenu extends Button{
+
+	public ButtonBackToMainmenu(float x, float y, float width, float height, int zIndex,
+			String imagePath) {
+		super(x, y, width, height, zIndex, imagePath);
+	}
+	
+	@Override
+	public void onEvent(Point p) {
+//		Helper.println("Checking hitpoint...");
+		p.x=GlobalVars.ge.getScreen().cam.position.x+p.x-240f*LevelInfo.ratioX;
+		p.y=GlobalVars.ge.getScreen().cam.position.y+p.y-160f*LevelInfo.ratioY;
+		if(this.checkHit(p)){
+		//	this.setImage(Helper.getImageFromAssets(AssetConstants.IMG_BTN_BACK_DOWN));
+			Helper.println("Back to main menu...");
+			GlobalVars.ge.loadStage(new MainMenu());			
+		}
+	}
+
+	public ButtonBackToMainmenu(float x, float y, float width, float height, int zIndex) {
+		super(x, y, width, height, zIndex);
+	}
+}

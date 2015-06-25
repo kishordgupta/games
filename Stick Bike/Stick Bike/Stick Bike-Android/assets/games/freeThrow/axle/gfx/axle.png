@@ -1,0 +1,1 @@
+{"rigidBodies":[{"name":"axle","imagePath":"axle.png","origin":{"x":0,"y":0},"polygons":[[{"x":0,"y":0},{"x":1,"y":0},{"x":1,"y":7.700000286102295},{"x":0,"y":7.700000286102295}]],"circles":[],"shapes":[{"type":"POLYGON","vertices":[{"x":0,"y":7.700000286102295},{"x":1,"y":7.700000286102295},{"x":1,"y":0},{"x":0,"y":0}]}]}],"dynamicObjects":[]}

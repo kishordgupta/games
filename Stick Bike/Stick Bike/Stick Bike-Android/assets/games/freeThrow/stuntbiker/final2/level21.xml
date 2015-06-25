@@ -1,0 +1,117 @@
+<?xml version="1.0"?><GameConfig>
+<StartRopes><Rope Number="0" Type="path">
+<RopeNode nodeNumber="0" x="28" y="467" />
+<RopeNode nodeNumber="1" x="202" y="467" />
+<RopeNode nodeNumber="2" x="220" y="446" />
+<RopeNode nodeNumber="3" x="235" y="426" />
+<RopeNode nodeNumber="4" x="250" y="413" />
+<RopeNode nodeNumber="5" x="270" y="410" />
+<RopeNode nodeNumber="6" x="288" y="410" />
+<RopeNode nodeNumber="7" x="303" y="416" />
+</Rope><Rope Number="1" Type="path">
+<RopeNode nodeNumber="0" x="310" y="463" />
+<RopeNode nodeNumber="1" x="319" y="449" />
+<RopeNode nodeNumber="2" x="330" y="436" />
+<RopeNode nodeNumber="3" x="343" y="428" />
+<RopeNode nodeNumber="4" x="362" y="425" />
+<RopeNode nodeNumber="5" x="378" y="427" />
+<RopeNode nodeNumber="6" x="389" y="434" />
+<RopeNode nodeNumber="7" x="400" y="449" />
+<RopeNode nodeNumber="8" x="407" y="468" />
+<RopeNode nodeNumber="9" x="415" y="479" />
+<RopeNode nodeNumber="10" x="426" y="484" />
+<RopeNode nodeNumber="11" x="440" y="484" />
+<RopeNode nodeNumber="12" x="494" y="430" />
+<RopeNode nodeNumber="13" x="532" y="483" />
+<RopeNode nodeNumber="14" x="581" y="459" />
+<RopeNode nodeNumber="15" x="692" y="501" />
+</Rope><Rope Number="2" Type="path">
+<RopeNode nodeNumber="0" x="697" y="528" />
+<RopeNode nodeNumber="1" x="705" y="543" />
+<RopeNode nodeNumber="2" x="718" y="558" />
+<RopeNode nodeNumber="3" x="736" y="569" />
+<RopeNode nodeNumber="4" x="759" y="577" />
+<RopeNode nodeNumber="5" x="783" y="580" />
+<RopeNode nodeNumber="6" x="807" y="578" />
+<RopeNode nodeNumber="7" x="826" y="572" />
+<RopeNode nodeNumber="8" x="846" y="563" />
+<RopeNode nodeNumber="9" x="867" y="550" />
+<RopeNode nodeNumber="10" x="882" y="535" />
+<RopeNode nodeNumber="11" x="896" y="517" />
+<RopeNode nodeNumber="12" x="910" y="499" />
+<RopeNode nodeNumber="13" x="922" y="481" />
+<RopeNode nodeNumber="14" x="934" y="461" />
+<RopeNode nodeNumber="15" x="944" y="443" />
+<RopeNode nodeNumber="16" x="954" y="425" />
+<RopeNode nodeNumber="17" x="964" y="406" />
+<RopeNode nodeNumber="18" x="1059" y="433" />
+</Rope><Rope Number="3" Type="path">
+<RopeNode nodeNumber="0" x="1068" y="461" />
+<RopeNode nodeNumber="1" x="1150" y="438" />
+<RopeNode nodeNumber="2" x="1157" y="449" />
+<RopeNode nodeNumber="3" x="1164" y="457" />
+<RopeNode nodeNumber="4" x="1172" y="464" />
+<RopeNode nodeNumber="5" x="1188" y="466" />
+<RopeNode nodeNumber="6" x="1205" y="464" />
+<RopeNode nodeNumber="7" x="1218" y="456" />
+<RopeNode nodeNumber="8" x="1226" y="445" />
+<RopeNode nodeNumber="9" x="1234" y="431" />
+<RopeNode nodeNumber="10" x="1325" y="397" />
+<RopeNode nodeNumber="11" x="1502" y="475" />
+<RopeNode nodeNumber="12" x="1502" y="494" />
+<RopeNode nodeNumber="13" x="1507" y="509" />
+<RopeNode nodeNumber="14" x="1520" y="523" />
+<RopeNode nodeNumber="15" x="1535" y="533" />
+<RopeNode nodeNumber="16" x="1559" y="538" />
+<RopeNode nodeNumber="17" x="1580" y="534" />
+<RopeNode nodeNumber="18" x="1591" y="527" />
+<RopeNode nodeNumber="19" x="1728" y="595" />
+</Rope><Rope Number="4" Type="liftdown">
+<RopeNode nodeNumber="0" x="1733" y="602" />
+<RopeNode nodeNumber="1" x="1851" y="602" />
+</Rope><Rope Number="5" Type="path">
+<RopeNode nodeNumber="0" x="1856" y="852" />
+<RopeNode nodeNumber="1" x="2041" y="1066" />
+<RopeNode nodeNumber="2" x="2128" y="1066" />
+<RopeNode nodeNumber="3" x="2242" y="973" />
+<RopeNode nodeNumber="4" x="2255" y="981" />
+<RopeNode nodeNumber="5" x="2279" y="987" />
+<RopeNode nodeNumber="6" x="2297" y="987" />
+<RopeNode nodeNumber="7" x="2310" y="982" />
+<RopeNode nodeNumber="8" x="2325" y="971" />
+<RopeNode nodeNumber="9" x="2442" y="1068" />
+<RopeNode nodeNumber="10" x="2537" y="1068" />
+<RopeNode nodeNumber="11" x="2718" y="843" />
+<RopeNode nodeNumber="12" x="2865" y="843" />
+</Rope><Rope Number="6" Type="path">
+<RopeNode nodeNumber="0" x="2877" y="888" />
+<RopeNode nodeNumber="1" x="3007" y="838" />
+<RopeNode nodeNumber="2" x="3024" y="832" />
+<RopeNode nodeNumber="3" x="3034" y="829" />
+<RopeNode nodeNumber="4" x="3049" y="827" />
+<RopeNode nodeNumber="5" x="3062" y="828" />
+</Rope><Rope Number="7" Type="path">
+<RopeNode nodeNumber="0" x="3078" y="859" />
+<RopeNode nodeNumber="1" x="3216" y="908" />
+<RopeNode nodeNumber="2" x="3259" y="877" />
+<RopeNode nodeNumber="3" x="3315" y="921" />
+<RopeNode nodeNumber="4" x="3324" y="906" />
+<RopeNode nodeNumber="5" x="3333" y="895" />
+<RopeNode nodeNumber="6" x="3349" y="879" />
+<RopeNode nodeNumber="7" x="3363" y="869" />
+<RopeNode nodeNumber="8" x="3380" y="859" />
+<RopeNode nodeNumber="9" x="3399" y="857" />
+</Rope><Rope Number="8" Type="path">
+<RopeNode nodeNumber="0" x="3404" y="878" />
+<RopeNode nodeNumber="1" x="3410" y="892" />
+<RopeNode nodeNumber="2" x="3419" y="903" />
+<RopeNode nodeNumber="3" x="3429" y="913" />
+<RopeNode nodeNumber="4" x="3438" y="922" />
+<RopeNode nodeNumber="5" x="3453" y="931" />
+<RopeNode nodeNumber="6" x="3469" y="935" />
+<RopeNode nodeNumber="7" x="3486" y="939" />
+<RopeNode nodeNumber="8" x="3507" y="938" />
+<RopeNode nodeNumber="9" x="3524" y="934" />
+<RopeNode nodeNumber="10" x="3543" y="928" />
+<RopeNode nodeNumber="11" x="3557" y="918" />
+</Rope><Rope Number="9" Type="liftup"><RopeNode nodeNumber="0" x="3564" y="923" /><RopeNode nodeNumber="1" x="3685" y="923" /></Rope><Rope Number="10" Type="path"><RopeNode nodeNumber="0" x="3685" y="505" /><RopeNode nodeNumber="1" x="3709" y="491" /><RopeNode nodeNumber="2" x="3730" y="477" /><RopeNode nodeNumber="3" x="3748" y="462" /><RopeNode nodeNumber="4" x="3762" y="452" /><RopeNode nodeNumber="5" x="3777" y="437" /><RopeNode nodeNumber="6" x="3788" y="422" /><RopeNode nodeNumber="7" x="3801" y="406" /><RopeNode nodeNumber="8" x="3815" y="386" /><RopeNode nodeNumber="9" x="3830" y="372" /><RopeNode nodeNumber="10" x="3849" y="363" /><RopeNode nodeNumber="11" x="3870" y="363" /><RopeNode nodeNumber="12" x="3891" y="367" /><RopeNode nodeNumber="13" x="3904" y="380" /><RopeNode nodeNumber="14" x="3918" y="396" /><RopeNode nodeNumber="15" x="3930" y="419" /><RopeNode nodeNumber="16" x="3941" y="437" /><RopeNode nodeNumber="17" x="3952" y="458" /></Rope><Rope Number="11" Type="path"><RopeNode nodeNumber="0" x="3928" y="393" /><RopeNode nodeNumber="1" x="4057" y="444" /></Rope><Rope Number="12" Type="path"><RopeNode nodeNumber="0" x="4062" y="482" /><RopeNode nodeNumber="1" x="4085" y="480" /><RopeNode nodeNumber="2" x="4096" y="477" /><RopeNode nodeNumber="3" x="4110" y="473" /><RopeNode nodeNumber="4" x="4128" y="465" /><RopeNode nodeNumber="5" x="4141" y="457" /><RopeNode nodeNumber="6" x="4154" y="447" /><RopeNode nodeNumber="7" x="4170" y="430" /><RopeNode nodeNumber="8" x="4184" y="412" /><RopeNode nodeNumber="9" x="4196" y="395" /><RopeNode nodeNumber="10" x="4206" y="380" /><RopeNode nodeNumber="11" x="4218" y="362" /><RopeNode nodeNumber="12" x="4232" y="376" /><RopeNode nodeNumber="13" x="4249" y="385" /><RopeNode nodeNumber="14" x="4267" y="390" /><RopeNode nodeNumber="15" x="4286" y="389" /><RopeNode nodeNumber="16" x="4304" y="385" /><RopeNode nodeNumber="17" x="4314" y="376" /><RopeNode nodeNumber="18" x="4321" y="365" /><RopeNode nodeNumber="19" x="4366" y="378" /></Rope><Rope Number="13" Type="path"><RopeNode nodeNumber="0" x="4365" y="434" /><RopeNode nodeNumber="1" x="4367" y="423" /><RopeNode nodeNumber="2" x="4369" y="410" /><RopeNode nodeNumber="3" x="4374" y="399" /><RopeNode nodeNumber="4" x="4384" y="394" /><RopeNode nodeNumber="5" x="4401" y="393" /><RopeNode nodeNumber="6" x="4416" y="400" /><RopeNode nodeNumber="7" x="4425" y="412" /><RopeNode nodeNumber="8" x="4443" y="433" /><RopeNode nodeNumber="9" x="4456" y="445" /><RopeNode nodeNumber="10" x="4475" y="435" /><RopeNode nodeNumber="11" x="4493" y="425" /><RopeNode nodeNumber="12" x="4508" y="416" /><RopeNode nodeNumber="13" x="4524" y="406" /><RopeNode nodeNumber="14" x="4541" y="396" /><RopeNode nodeNumber="15" x="4558" y="386" /><RopeNode nodeNumber="16" x="4573" y="382" /><RopeNode nodeNumber="17" x="4585" y="385" /></Rope><Rope Number="14" Type="path"><RopeNode nodeNumber="0" x="4589" y="401" /><RopeNode nodeNumber="1" x="4598" y="417" /><RopeNode nodeNumber="2" x="4608" y="428" /><RopeNode nodeNumber="3" x="4623" y="436" /><RopeNode nodeNumber="4" x="4639" y="440" /><RopeNode nodeNumber="5" x="4656" y="439" /><RopeNode nodeNumber="6" x="4673" y="434" /><RopeNode nodeNumber="7" x="4690" y="425" /><RopeNode nodeNumber="8" x="4729" y="435" /></Rope><Rope Number="15" Type="path"><RopeNode nodeNumber="0" x="4740" y="457" /><RopeNode nodeNumber="1" x="4749" y="469" /><RopeNode nodeNumber="2" x="4762" y="479" /><RopeNode nodeNumber="3" x="4778" y="486" /><RopeNode nodeNumber="4" x="4797" y="489" /><RopeNode nodeNumber="5" x="4811" y="489" /><RopeNode nodeNumber="6" x="4826" y="487" /><RopeNode nodeNumber="7" x="4845" y="480" /><RopeNode nodeNumber="8" x="4857" y="470" /><RopeNode nodeNumber="9" x="4865" y="459" /><RopeNode nodeNumber="10" x="4881" y="459" /><RopeNode nodeNumber="11" x="4899" y="459" /><RopeNode nodeNumber="12" x="4920" y="453" /><RopeNode nodeNumber="13" x="4935" y="441" /><RopeNode nodeNumber="14" x="4948" y="428" /><RopeNode nodeNumber="15" x="4958" y="415" /><RopeNode nodeNumber="16" x="4964" y="401" /><RopeNode nodeNumber="17" x="5033" y="410" /></Rope><Rope Number="16" Type="Normal"><RopeNode nodeNumber="0" x="5059" y="441" /><RopeNode nodeNumber="1" x="5199" y="388" /><RopeNode nodeNumber="2" x="5303" y="435" /><RopeNode nodeNumber="3" x="5318" y="413" /><RopeNode nodeNumber="4" x="5325" y="403" /><RopeNode nodeNumber="5" x="5340" y="393" /><RopeNode nodeNumber="6" x="5355" y="384" /><RopeNode nodeNumber="7" x="5375" y="378" /><RopeNode nodeNumber="8" x="5389" y="376" /><RopeNode nodeNumber="9" x="5408" y="381" /><RopeNode nodeNumber="10" x="5427" y="392" /><RopeNode nodeNumber="11" x="5438" y="401" /><RopeNode nodeNumber="12" x="5445" y="411" /><RopeNode nodeNumber="13" x="5452" y="424" /><RopeNode nodeNumber="14" x="5459" y="439" /><RopeNode nodeNumber="15" x="5464" y="451" /><RopeNode nodeNumber="16" x="5585" y="416" /><RopeNode nodeNumber="17" x="5761" y="496" /><RopeNode nodeNumber="18" x="5984" y="496" /></Rope></StartRopes><StartJoints /><StartElement /><StartTransporter /></GameConfig>

@@ -1,0 +1,553 @@
+<TD map="round 3">
+
+  <!-- level stuff -->
+  <background file="map_3"/>
+  
+  <direction_points x="0" y="237"/>
+  <direction_points x="577" y="222"/>
+  <direction_points x="775" y="233"/>
+  <direction_points x="827" y="313"/>
+  <direction_points x="796" y="384"/> 
+  <direction_points x="667" y="410"/>
+  <direction_points x="281" y="422"/>
+  <direction_points x="153" y="449"/>
+  <direction_points x="110" y="517"/>
+  <direction_points x="123" y="603"/>
+  <direction_points x="174" y="652"/>
+  <direction_points x="392" y="628"/>
+  <direction_points x="470" y="609"/>
+  <direction_points x="689" y="613"/>
+  <direction_points x="882" y="697"/>
+  <direction_points x="915" y="768"/>
+  
+  <money val="250" />
+  <Level number="1">
+	<Enemy type="0" speed="3" life="150" damage="2" range="100" val="2" shooting="0"/>
+	<Enemy type="1" speed="3" life="150" damage="2" range="100" val="2" shooting="0"/>
+	<Enemy type="0" speed="3" life="150" damage="2" range="100" val="2" shooting="0"/>
+	<Enemy type="1" speed="3" life="150" damage="2" range="100" val="2" shooting="0"/>
+	<Enemy type="0" speed="3" life="150" damage="2" range="100" val="2" shooting="0"/>
+	<Enemy type="1" speed="3" life="150" damage="2" range="100" val="2" shooting="0"/>
+	<Enemy type="0" speed="3" life="150" damage="2" range="100" val="2" shooting="0"/>
+	<Enemy type="1" speed="3" life="150" damage="2" range="100" val="2" shooting="0"/>
+	<Enemy type="0" speed="3" life="150" damage="2" range="100" val="2" shooting="0"/>
+	<Enemy type="1" speed="3" life="150" damage="2" range="100" val="2" shooting="0"/>
+	<desc string="Rat scouts and goblins... Be careful." />
+  </Level>
+  
+  <Level number="2">
+	<Enemy type="1" speed="3" life="190" damage="2" range="100" val="3" shooting="0"/>
+	<Enemy type="2" speed="3" life="190" damage="2" range="100" val="3" shooting="0"/>
+	<Enemy type="3" speed="3" life="190" damage="2" range="100" val="3" shooting="0"/>
+	<Enemy type="0" speed="3" life="190" damage="2" range="100" val="3" shooting="0"/>
+	<Enemy type="2" speed="3" life="190" damage="2" range="100" val="3" shooting="0"/>
+	<Enemy type="3" speed="3" life="190" damage="2" range="100" val="3" shooting="0"/>
+	<Enemy type="0" speed="3" life="190" damage="2" range="100" val="3" shooting="0"/>
+	<Enemy type="2" speed="3" life="190" damage="2" range="100" val="3" shooting="0"/>
+	<Enemy type="3" speed="3" life="190" damage="2" range="100" val="3" shooting="0"/>
+	<Enemy type="1" speed="3" life="190" damage="2" range="100" val="3" shooting="0"/>
+	<Enemy type="0" speed="3" life="190" damage="2" range="100" val="3" shooting="0"/>
+	<Enemy type="1" speed="3" life="190" damage="2" range="100" val="3" shooting="0"/>
+	<Enemy type="3" speed="3" life="190" damage="2" range="100" val="3" shooting="0"/>
+	<Enemy type="0" speed="3" life="190" damage="2" range="100" val="3" shooting="0"/>
+	<Enemy type="2" speed="3" life="190" damage="2" range="100" val="3" shooting="0"/>
+	<Enemy type="1" speed="3" life="190" damage="2" range="100" val="3" shooting="0"/>
+	<Enemy type="4" speed="3" life="190" damage="2" range="100" val="3" shooting="0"/>
+	<Enemy type="2" speed="3" life="190" damage="2" range="100" val="3" shooting="0"/>
+	<Enemy type="3" speed="3" life="190" damage="2" range="100" val="3" shooting="0"/>
+	<Enemy type="0" speed="3" life="190" damage="2" range="100" val="3" shooting="0"/>
+	<desc string="A new enemy wave, first battalion." />
+  </Level>
+  
+  <Level number="3">
+	<Enemy type="3" speed="3" life="210" damage="2" range="100" val="3" shooting="0"/>
+	<Enemy type="3" speed="3" life="210" damage="2" range="100" val="3" shooting="0"/>
+	<Enemy type="3" speed="3" life="210" damage="2" range="100" val="3" shooting="0"/>
+	<Enemy type="3" speed="3" life="210" damage="2" range="100" val="3" shooting="0"/>
+	<Enemy type="3" speed="3" life="210" damage="2" range="100" val="3" shooting="0"/>
+	<Enemy type="3" speed="3" life="210" damage="2" range="100" val="3" shooting="0"/>
+	<Enemy type="3" speed="3" life="210" damage="2" range="100" val="3" shooting="0"/>
+	<Enemy type="3" speed="3" life="210" damage="2" range="100" val="3" shooting="0"/>
+	<Enemy type="3" speed="3" life="210" damage="2" range="100" val="3" shooting="0"/>
+	<Enemy type="3" speed="3" life="210" damage="2" range="100" val="3" shooting="0"/>
+	<Enemy type="3" speed="3" life="210" damage="2" range="100" val="3" shooting="0"/>
+	<Enemy type="3" speed="3" life="210" damage="2" range="100" val="3" shooting="0"/>
+	<Enemy type="3" speed="3" life="210" damage="2" range="100" val="3" shooting="0"/>
+	<Enemy type="3" speed="3" life="210" damage="2" range="100" val="3" shooting="0"/>
+	<Enemy type="3" speed="3" life="210" damage="2" range="100" val="3" shooting="0"/>
+	<Enemy type="3" speed="3" life="210" damage="2" range="100" val="3" shooting="0"/>
+	<Enemy type="3" speed="3" life="210" damage="2" range="100" val="3" shooting="0"/>
+	<Enemy type="3" speed="3" life="210" damage="2" range="100" val="3" shooting="0"/>
+	<Enemy type="3" speed="3" life="210" damage="2" range="100" val="3" shooting="0"/>
+	<Enemy type="3" speed="3" life="210" damage="2" range="100" val="3" shooting="0"/>
+	<desc string="Goblin Archers..." />
+  </Level>
+  
+  <Level number="4">
+	<Enemy type="3" speed="3" life="230" damage="2" range="100" val="3" shooting="0"/>
+	<Enemy type="4" speed="3" life="230" damage="2" range="100" val="3" shooting="0"/>
+	<Enemy type="3" speed="3" life="230" damage="2" range="100" val="3" shooting="0"/>
+	<Enemy type="4" speed="3" life="230" damage="2" range="100" val="3" shooting="0"/>
+	<Enemy type="3" speed="3" life="230" damage="2" range="100" val="3" shooting="0"/>
+	<Enemy type="4" speed="3" life="230" damage="2" range="100" val="3" shooting="0"/>
+	<Enemy type="3" speed="3" life="230" damage="2" range="100" val="3" shooting="0"/>
+	<Enemy type="4" speed="3" life="230" damage="2" range="100" val="3" shooting="0"/>
+	<Enemy type="3" speed="3" life="230" damage="2" range="100" val="3" shooting="0"/>
+	<Enemy type="4" speed="3" life="230" damage="2" range="100" val="3" shooting="0"/>
+	<Enemy type="3" speed="3" life="230" damage="2" range="100" val="3" shooting="0"/>
+	<Enemy type="4" speed="3" life="230" damage="2" range="100" val="3" shooting="0"/>
+	<Enemy type="3" speed="3" life="230" damage="2" range="100" val="3" shooting="0"/>
+	<Enemy type="4" speed="3" life="230" damage="2" range="100" val="3" shooting="0"/>
+	<Enemy type="3" speed="3" life="230" damage="2" range="100" val="3" shooting="0"/>
+	<Enemy type="4" speed="3" life="230" damage="2" range="100" val="3" shooting="0"/>
+	<Enemy type="3" speed="3" life="230" damage="2" range="100" val="3" shooting="0"/>
+	<Enemy type="4" speed="3" life="230" damage="2" range="100" val="3" shooting="0"/>
+	<Enemy type="3" speed="3" life="230" damage="2" range="100" val="3" shooting="0"/>
+	<Enemy type="4" speed="3" life="230" damage="2" range="100" val="3" shooting="0"/>
+	<Enemy type="3" speed="3" life="230" damage="2" range="100" val="3" shooting="0"/>
+	<desc string="Rats and Goblins fighting together." />
+  </Level>
+  
+  <Level number="5">
+	<Enemy type="4" speed="3" life="250" damage="2" range="100" val="3" shooting="0"/>
+	<Enemy type="5" speed="3" life="250" damage="2" range="100" val="3" shooting="0"/>
+	<Enemy type="4" speed="3" life="250" damage="2" range="100" val="3" shooting="0"/>
+	<Enemy type="5" speed="3" life="250" damage="2" range="100" val="3" shooting="0"/>
+	<Enemy type="4" speed="3" life="250" damage="2" range="100" val="3" shooting="0"/>
+	<Enemy type="5" speed="3" life="250" damage="2" range="100" val="3" shooting="0"/>
+	<Enemy type="4" speed="3" life="250" damage="2" range="100" val="3" shooting="0"/>
+	<Enemy type="5" speed="3" life="250" damage="2" range="100" val="3" shooting="0"/>
+	<Enemy type="4" speed="3" life="250" damage="2" range="100" val="3" shooting="0"/>
+	<Enemy type="5" speed="3" life="250" damage="2" range="100" val="3" shooting="0"/>
+	<Enemy type="4" speed="3" life="250" damage="2" range="100" val="3" shooting="0"/>
+	<Enemy type="5" speed="3" life="250" damage="2" range="100" val="3" shooting="0"/>
+	<Enemy type="4" speed="3" life="250" damage="2" range="100" val="3" shooting="0"/>
+	<Enemy type="5" speed="3" life="250" damage="2" range="100" val="3" shooting="0"/>
+	<Enemy type="4" speed="3" life="250" damage="2" range="100" val="3" shooting="0"/>
+	<Enemy type="5" speed="3" life="250" damage="2" range="100" val="3" shooting="0"/>
+	<Enemy type="4" speed="3" life="250" damage="2" range="100" val="3" shooting="0"/>
+	<Enemy type="5" speed="3" life="250" damage="2" range="100" val="3" shooting="0"/>
+	<Enemy type="4" speed="3" life="250" damage="2" range="100" val="3" shooting="0"/>
+	<Enemy type="5" speed="3" life="250" damage="2" range="100" val="3" shooting="0"/>
+	<desc string = "Deamons and Lions are attaching you defense..." />
+  </Level>
+  
+  <Level number="6">
+	<Enemy type="2" speed="3" life="270" damage="2" range="100" val="3" shooting="0"/>
+	<Enemy type="3" speed="3" life="270" damage="2" range="100" val="3" shooting="0"/>
+	<Enemy type="4" speed="3" life="270" damage="2" range="100" val="3" shooting="0"/>
+	<Enemy type="5" speed="3" life="270" damage="2" range="100" val="3" shooting="0"/>
+	<Enemy type="3" speed="3" life="270" damage="2" range="100" val="3" shooting="0"/>
+	<Enemy type="2" speed="3" life="270" damage="2" range="100" val="3" shooting="0"/>
+	<Enemy type="1" speed="3" life="270" damage="2" range="100" val="3" shooting="0"/>
+	<Enemy type="3" speed="3" life="270" damage="2" range="100" val="3" shooting="0"/>
+	<Enemy type="5" speed="3" life="270" damage="2" range="100" val="3" shooting="0"/>
+	<Enemy type="4" speed="3" life="270" damage="2" range="100" val="3" shooting="0"/>
+	<Enemy type="3" speed="3" life="270" damage="2" range="100" val="3" shooting="0"/>
+	<Enemy type="2" speed="3" life="270" damage="2" range="100" val="3" shooting="0"/>
+	<Enemy type="1" speed="3" life="270" damage="2" range="100" val="3" shooting="0"/>
+	<Enemy type="5" speed="3" life="270" damage="2" range="100" val="3" shooting="0"/>
+	<Enemy type="3" speed="3" life="270" damage="2" range="100" val="3" shooting="0"/>
+	<Enemy type="5" speed="3" life="270" damage="2" range="100" val="3" shooting="0"/>
+	<Enemy type="4" speed="3" life="270" damage="2" range="100" val="3" shooting="0"/>
+	<Enemy type="2" speed="3" life="270" damage="2" range="100" val="3" shooting="0"/>
+	<Enemy type="1" speed="3" life="270" damage="2" range="100" val="3" shooting="0"/>
+	<Enemy type="2" speed="3" life="270" damage="2" range="100" val="3" shooting="0"/>
+	<desc string = "All the armies are against you..." />
+  </Level>
+  
+  <Level number="7">
+  	<Enemy type="3" speed="3" life="310" damage="2" range="100" val="3" shooting="0"/>
+	<Enemy type="4" speed="3" life="310" damage="2" range="100" val="3" shooting="0"/>
+	<Enemy type="5" speed="3" life="310" damage="2" range="100" val="3" shooting="0"/>
+	<Enemy type="4" speed="3" life="310" damage="2" range="100" val="3" shooting="0"/>
+	<Enemy type="3" speed="3" life="310" damage="2" range="100" val="3" shooting="0"/>
+	<Enemy type="5" speed="3" life="310" damage="2" range="100" val="3" shooting="0"/>
+	<Enemy type="3" speed="3" life="310" damage="2" range="100" val="3" shooting="0"/>
+	<Enemy type="4" speed="3" life="310" damage="2" range="100" val="3" shooting="0"/>
+	<Enemy type="5" speed="3" life="310" damage="2" range="100" val="3" shooting="0"/>
+	<Enemy type="4" speed="3" life="310" damage="2" range="100" val="3" shooting="0"/>
+	<Enemy type="3" speed="3" life="310" damage="2" range="100" val="3" shooting="0"/>
+	<Enemy type="4" speed="3" life="310" damage="2" range="100" val="3" shooting="0"/>
+	<Enemy type="5" speed="3" life="310" damage="2" range="100" val="3" shooting="0"/>
+	<Enemy type="4" speed="3" life="310" damage="2" range="100" val="3" shooting="0"/>
+	<Enemy type="3" speed="3" life="310" damage="2" range="100" val="3" shooting="0"/>
+	<Enemy type="4" speed="3" life="310" damage="2" range="100" val="3" shooting="0"/>
+	<Enemy type="5" speed="3" life="310" damage="2" range="100" val="3" shooting="0"/>
+	<Enemy type="4" speed="3" life="310" damage="2" range="100" val="3" shooting="0"/>
+	<Enemy type="3" speed="3" life="310" damage="2" range="100" val="3" shooting="0"/>
+	<Enemy type="5" speed="3" life="310" damage="2" range="100" val="3" shooting="0"/>
+	<desc string = "Well done, you have manage to survive the plot... but the war is far from over..." />
+  </Level>
+  
+  <Level number="8">
+	<Enemy type="2" speed="3" life="335" damage="2" range="100" val="3" shooting="0"/>
+	<Enemy type="3" speed="3" life="335" damage="2" range="100" val="3" shooting="0"/>
+	<Enemy type="5" speed="3" life="335" damage="2" range="100" val="3" shooting="0"/>
+	<Enemy type="6" speed="3" life="335" damage="2" range="100" val="3" shooting="0"/>
+	<Enemy type="4" speed="3" life="335" damage="2" range="100" val="3" shooting="0"/>
+	<Enemy type="3" speed="3" life="335" damage="2" range="100" val="3" shooting="0"/>
+	<Enemy type="2" speed="3" life="335" damage="2" range="100" val="3" shooting="0"/>
+	<Enemy type="1" speed="3" life="335" damage="2" range="100" val="3" shooting="0"/>
+	<Enemy type="0" speed="3" life="335" damage="2" range="100" val="3" shooting="0"/>
+	<Enemy type="3" speed="3" life="335" damage="2" range="100" val="3" shooting="0"/>
+	<Enemy type="2" speed="3" life="335" damage="2" range="100" val="3" shooting="0"/>
+	<Enemy type="4" speed="3" life="335" damage="2" range="100" val="3" shooting="0"/>
+	<Enemy type="5" speed="3" life="335" damage="2" range="100" val="3" shooting="0"/>
+	<Enemy type="6" speed="3" life="335" damage="2" range="100" val="3" shooting="0"/>
+	<Enemy type="6" speed="3" life="335" damage="2" range="100" val="3" shooting="0"/>
+	<Enemy type="6" speed="3" life="335" damage="2" range="100" val="3" shooting="0"/>
+	<Enemy type="5" speed="3" life="335" damage="2" range="100" val="3" shooting="0"/>
+	<Enemy type="3" speed="3" life="335" damage="2" range="100" val="3" shooting="0"/>
+	<Enemy type="2" speed="3" life="335" damage="2" range="100" val="3" shooting="0"/>
+	<Enemy type="1" speed="3" life="335" damage="2" range="100" val="3" shooting="0"/>
+	<desc string = "Survive this and you're good..." />
+  </Level>
+  
+  <Level number="9">
+	<Enemy type="9" speed="3" life="2500" damage="2" range="150" val="200" shooting="0"/>
+	<desc string = "THE BOSS wave... give it a go!" />
+  </Level>
+
+  <Level number="10">
+	<Enemy type="3" speed="3" life="380" damage="5" range="120" val="3" shooting="0"/>
+	<Enemy type="3" speed="3" life="380" damage="5" range="120" val="3" shooting="1"/>
+	<Enemy type="3" speed="3" life="380" damage="5" range="120" val="3" shooting="0"/>
+	<Enemy type="3" speed="3" life="380" damage="5" range="120" val="3" shooting="1"/>
+	<Enemy type="3" speed="3" life="380" damage="5" range="120" val="3" shooting="0"/>
+	<Enemy type="3" speed="3" life="380" damage="5" range="120" val="3" shooting="1"/>
+	<Enemy type="3" speed="3" life="380" damage="5" range="120" val="3" shooting="0"/>
+	<Enemy type="3" speed="3" life="380" damage="5" range="120" val="3" shooting="1"/>
+	<Enemy type="3" speed="3" life="380" damage="5" range="120" val="3" shooting="0"/>
+	<Enemy type="3" speed="3" life="380" damage="5" range="120" val="3" shooting="1"/>
+	<Enemy type="3" speed="3" life="380" damage="5" range="120" val="3" shooting="0"/>
+	<Enemy type="3" speed="3" life="380" damage="5" range="120" val="3" shooting="1"/>
+	<Enemy type="3" speed="3" life="380" damage="5" range="120" val="3" shooting="0"/>
+	<Enemy type="3" speed="3" life="380" damage="5" range="120" val="3" shooting="1"/>
+	<Enemy type="3" speed="3" life="380" damage="5" range="120" val="3" shooting="0"/>
+	<Enemy type="3" speed="3" life="380" damage="5" range="120" val="3" shooting="1"/>
+	<Enemy type="3" speed="3" life="380" damage="5" range="120" val="3" shooting="0"/>
+	<Enemy type="3" speed="3" life="380" damage="5" range="120" val="3" shooting="1"/>
+	<Enemy type="3" speed="3" life="380" damage="5" range="120" val="3" shooting="0"/>
+	<Enemy type="3" speed="3" life="380" damage="5" range="120" val="3" shooting="1"/>
+	<desc string = "Goblin archers... Some of them are armed. Beware." />
+  </Level>
+  
+  <Level number="11">
+	<Enemy type="1" speed="3" life="410" damage="2" range="120" val="4" shooting="0"/>
+	<Enemy type="1" speed="3" life="410" damage="2" range="120" val="4" shooting="1"/>
+	<Enemy type="3" speed="3" life="410" damage="2" range="120" val="4" shooting="1"/>
+	<Enemy type="1" speed="3" life="410" damage="2" range="120" val="4" shooting="0"/>
+	<Enemy type="1" speed="3" life="410" damage="2" range="120" val="4" shooting="0"/>
+	<Enemy type="1" speed="3" life="410" damage="2" range="120" val="4" shooting="1"/>
+	<Enemy type="3" speed="3" life="410" damage="2" range="120" val="4" shooting="0"/>
+	<Enemy type="1" speed="3" life="410" damage="2" range="120" val="4" shooting="1"/>
+	<Enemy type="3" speed="3" life="410" damage="2" range="120" val="4" shooting="0"/>
+	<Enemy type="1" speed="3" life="410" damage="2" range="120" val="4" shooting="1"/>
+	<Enemy type="3" speed="3" life="410" damage="2" range="120" val="4" shooting="0"/>
+	<Enemy type="1" speed="3" life="410" damage="2" range="120" val="4" shooting="1"/>
+	<Enemy type="3" speed="3" life="410" damage="2" range="120" val="4" shooting="0"/>
+	<Enemy type="1" speed="3" life="410" damage="2" range="120" val="4" shooting="1"/>
+	<Enemy type="3" speed="3" life="410" damage="2" range="120" val="4" shooting="0"/>
+	<Enemy type="1" speed="3" life="410" damage="2" range="120" val="4" shooting="0"/>
+	<Enemy type="1" speed="3" life="410" damage="2" range="120" val="4" shooting="1"/>
+	<Enemy type="1" speed="3" life="410" damage="2" range="120" val="4" shooting="1"/>
+	<Enemy type="3" speed="3" life="410" damage="2" range="120" val="4" shooting="1"/>
+	<Enemy type="1" speed="3" life="410" damage="2" range="120" val="4" shooting="1"/>
+	<desc string = "A great goblin army is on the horizon. They are attacking your settlement. Defend your self." />
+  </Level>
+
+  <Level number="12">
+	<Enemy type="4" speed="3" life="450" damage="2" range="120" val="4" shooting="0"/>
+	<Enemy type="4" speed="3" life="450" damage="2" range="120" val="4" shooting="0"/>
+	<Enemy type="4" speed="3" life="450" damage="2" range="120" val="4" shooting="0"/>
+	<Enemy type="4" speed="3" life="450" damage="2" range="120" val="4" shooting="0"/>
+	<Enemy type="4" speed="3" life="450" damage="2" range="120" val="4" shooting="0"/>
+	<Enemy type="4" speed="3" life="450" damage="2" range="120" val="4" shooting="0"/>
+	<Enemy type="4" speed="3" life="450" damage="2" range="120" val="4" shooting="0"/>
+	<Enemy type="4" speed="3" life="450" damage="2" range="120" val="4" shooting="0"/>
+	<Enemy type="4" speed="3" life="450" damage="2" range="120" val="4" shooting="0"/>
+	<Enemy type="4" speed="3" life="450" damage="2" range="120" val="4" shooting="0"/>
+	<Enemy type="4" speed="3" life="450" damage="2" range="120" val="4" shooting="0"/>
+	<Enemy type="4" speed="3" life="450" damage="2" range="120" val="4" shooting="0"/>
+	<Enemy type="4" speed="3" life="450" damage="2" range="120" val="4" shooting="0"/>
+	<Enemy type="4" speed="3" life="450" damage="2" range="120" val="4" shooting="0"/>
+	<Enemy type="4" speed="3" life="450" damage="2" range="120" val="4" shooting="0"/>
+	<Enemy type="4" speed="3" life="450" damage="2" range="120" val="4" shooting="0"/>
+	<Enemy type="4" speed="3" life="450" damage="2" range="120" val="4" shooting="0"/>
+	<Enemy type="4" speed="3" life="450" damage="2" range="120" val="4" shooting="0"/>
+	<Enemy type="4" speed="3" life="450" damage="2" range="120" val="4" shooting="0"/>
+	<Enemy type="4" speed="3" life="450" damage="2" range="120" val="4" shooting="0"/>
+	<desc string = "Demons... tough demons..." />
+  </Level>
+
+  <Level number="13">
+	<Enemy type="4" speed="3" life="520" damage="2" range="120" val="4" shooting="0"/>
+	<Enemy type="4" speed="3" life="520" damage="2" range="120" val="4" shooting="1"/>
+	<Enemy type="3" speed="3" life="520" damage="2" range="120" val="4" shooting="1"/>
+	<Enemy type="4" speed="3" life="520" damage="2" range="120" val="4" shooting="1"/>
+	<Enemy type="4" speed="3" life="520" damage="2" range="120" val="4" shooting="0"/>
+	<Enemy type="3" speed="3" life="520" damage="2" range="120" val="4" shooting="1"/>
+	<Enemy type="4" speed="3" life="520" damage="2" range="120" val="4" shooting="0"/>
+	<Enemy type="4" speed="3" life="520" damage="2" range="120" val="4" shooting="1"/>
+	<Enemy type="3" speed="3" life="520" damage="2" range="120" val="4" shooting="0"/>
+	<Enemy type="3" speed="3" life="520" damage="2" range="120" val="4" shooting="1"/>
+	<Enemy type="3" speed="3" life="520" damage="2" range="120" val="4" shooting="0"/>
+	<Enemy type="3" speed="3" life="520" damage="2" range="120" val="4" shooting="1"/>
+	<Enemy type="4" speed="3" life="520" damage="2" range="120" val="4" shooting="0"/>
+	<Enemy type="3" speed="3" life="520" damage="2" range="120" val="4" shooting="1"/>
+	<Enemy type="3" speed="3" life="520" damage="2" range="120" val="4" shooting="1"/>
+	<Enemy type="3" speed="3" life="520" damage="2" range="120" val="4" shooting="1"/>
+	<Enemy type="4" speed="3" life="520" damage="2" range="120" val="4" shooting="0"/>
+	<Enemy type="4" speed="3" life="520" damage="2" range="120" val="4" shooting="1"/>
+	<Enemy type="4" speed="3" life="520" damage="2" range="120" val="4" shooting="1"/>
+	<Enemy type="4" speed="3" life="520" damage="2" range="120" val="4" shooting="1"/>
+	<desc string = "Goblin archers and demons... they are the toughest enemies yet. Prepare your self!" />
+  </Level>
+
+  <Level number="14">
+	<Enemy type="5" speed="3" life="600" damage="3" range="130" val="4" shooting="0"/>
+	<Enemy type="5" speed="3" life="600" damage="3" range="130" val="4" shooting="0"/>
+	<Enemy type="5" speed="3" life="600" damage="3" range="130" val="4" shooting="0"/>
+	<Enemy type="5" speed="3" life="600" damage="3" range="130" val="4" shooting="0"/>
+	<Enemy type="5" speed="3" life="600" damage="3" range="130" val="4" shooting="0"/>
+	<Enemy type="5" speed="3" life="600" damage="3" range="130" val="4" shooting="0"/>
+	<Enemy type="5" speed="3" life="600" damage="3" range="130" val="4" shooting="0"/>
+	<Enemy type="5" speed="3" life="600" damage="3" range="130" val="4" shooting="0"/>
+	<Enemy type="5" speed="3" life="600" damage="3" range="130" val="4" shooting="0"/>
+	<Enemy type="5" speed="3" life="600" damage="3" range="130" val="4" shooting="0"/>
+	<Enemy type="5" speed="3" life="600" damage="3" range="130" val="4" shooting="0"/>
+	<Enemy type="5" speed="3" life="600" damage="3" range="130" val="4" shooting="0"/>
+	<Enemy type="5" speed="3" life="600" damage="3" range="130" val="4" shooting="0"/>
+	<Enemy type="5" speed="3" life="600" damage="3" range="130" val="4" shooting="0"/>
+	<Enemy type="5" speed="3" life="600" damage="3" range="130" val="4" shooting="0"/>
+	<Enemy type="5" speed="3" life="600" damage="3" range="130" val="4" shooting="0"/>
+	<Enemy type="5" speed="3" life="600" damage="3" range="130" val="4" shooting="0"/>
+	<Enemy type="5" speed="3" life="600" damage="3" range="130" val="4" shooting="0"/>
+	<Enemy type="5" speed="3" life="600" damage="3" range="130" val="4" shooting="0"/>
+	<Enemy type="5" speed="3" life="600" damage="3" range="130" val="4" shooting="0"/>
+	<desc string = "Beasts from hell... Lion Men creeps are attacking..." />
+  </Level>
+ 
+   <Level number="15">
+	<Enemy type="5" speed="3" life="680" damage="3" range="130" val="4" shooting="0"/>
+	<Enemy type="5" speed="3" life="680" damage="3" range="130" val="4" shooting="0"/>
+	<Enemy type="6" speed="3" life="680" damage="3" range="130" val="4" shooting="0"/>
+	<Enemy type="3" speed="3" life="680" damage="3" range="130" val="4" shooting="0"/>
+	<Enemy type="2" speed="3" life="680" damage="3" range="130" val="4" shooting="0"/>
+	<Enemy type="1" speed="3" life="680" damage="3" range="130" val="4" shooting="0"/>
+	<Enemy type="0" speed="3" life="680" damage="3" range="130" val="4" shooting="0"/>
+	<Enemy type="2" speed="3" life="680" damage="3" range="130" val="4" shooting="0"/>
+	<Enemy type="3" speed="3" life="680" damage="3" range="130" val="4" shooting="0"/>
+	<Enemy type="4" speed="3" life="680" damage="3" range="130" val="4" shooting="0"/>
+	<Enemy type="5" speed="3" life="680" damage="3" range="130" val="4" shooting="0"/>
+	<Enemy type="5" speed="3" life="680" damage="3" range="130" val="4" shooting="0"/>
+	<Enemy type="6" speed="3" life="680" damage="3" range="130" val="4" shooting="0"/>
+	<Enemy type="6" speed="3" life="680" damage="3" range="130" val="4" shooting="0"/>
+	<Enemy type="3" speed="3" life="680" damage="3" range="130" val="4" shooting="0"/>
+	<Enemy type="4" speed="3" life="680" damage="3" range="130" val="4" shooting="0"/>
+	<Enemy type="2" speed="3" life="680" damage="3" range="130" val="4" shooting="0"/>
+	<Enemy type="5" speed="3" life="680" damage="3" range="130" val="4" shooting="0"/>
+	<Enemy type="6" speed="3" life="680" damage="3" range="130" val="4" shooting="0"/>
+	<Enemy type="2" speed="3" life="680" damage="3" range="130" val="4" shooting="0"/>
+	<desc string = "More creeps are being invoked. Stand Up!" />
+  </Level>
+  
+  <Level number="16">
+	<Enemy type="6" speed="3" life="750" damage="3" range="120" val="6" shooting="0"/>
+	<Enemy type="6" speed="3" life="750" damage="3" range="120" val="6" shooting="0"/>
+	<Enemy type="5" speed="3" life="750" damage="3" range="120" val="4" shooting="0"/>
+	<Enemy type="5" speed="3" life="750" damage="3" range="120" val="4" shooting="0"/>
+	<Enemy type="5" speed="3" life="750" damage="3" range="120" val="4" shooting="0"/>
+	<Enemy type="5" speed="3" life="750" damage="3" range="120" val="4" shooting="0"/>
+	<Enemy type="6" speed="3" life="750" damage="3" range="120" val="4" shooting="0"/>
+	<Enemy type="6" speed="3" life="750" damage="3" range="120" val="4" shooting="0"/>
+	<Enemy type="6" speed="3" life="750" damage="3" range="120" val="4" shooting="0"/>
+	<Enemy type="5" speed="3" life="750" damage="3" range="120" val="4" shooting="0"/>
+	<Enemy type="5" speed="3" life="750" damage="3" range="120" val="4" shooting="0"/>
+	<Enemy type="5" speed="3" life="750" damage="3" range="120" val="4" shooting="0"/>
+	<Enemy type="5" speed="3" life="750" damage="3" range="120" val="4" shooting="0"/>
+	<Enemy type="4" speed="3" life="750" damage="3" range="120" val="4" shooting="0"/>
+	<Enemy type="4" speed="3" life="750" damage="3" range="120" val="4" shooting="0"/>
+	<Enemy type="4" speed="3" life="750" damage="3" range="120" val="4" shooting="0"/>
+	<Enemy type="4" speed="3" life="750" damage="3" range="120" val="4" shooting="0"/>
+	<Enemy type="5" speed="3" life="750" damage="3" range="120" val="4" shooting="0"/>
+	<Enemy type="5" speed="3" life="750" damage="3" range="120" val="6" shooting="0"/>
+	<Enemy type="6" speed="3" life="750" damage="3" range="120" val="6" shooting="0"/>
+	<desc string = "Destroy those creeps. Kill them all." />
+  </Level>
+  
+  <Level number="17">
+	<Enemy type="5" speed="3" life="830" damage="3" range="130" val="6" shooting="1"/>
+	<Enemy type="5" speed="3" life="830" damage="3" range="130" val="6" shooting="1"/>
+	<Enemy type="6" speed="3" life="830" damage="3" range="130" val="6" shooting="1"/>
+	<Enemy type="6" speed="3" life="830" damage="3" range="130" val="6" shooting="1"/>
+	<Enemy type="5" speed="3" life="830" damage="3" range="130" val="6" shooting="1"/>
+	<Enemy type="5" speed="3" life="830" damage="3" range="130" val="6" shooting="1"/>
+	<Enemy type="6" speed="3" life="830" damage="3" range="130" val="6" shooting="1"/>
+	<Enemy type="6" speed="3" life="830" damage="3" range="130" val="6" shooting="1"/>
+	<Enemy type="5" speed="3" life="830" damage="3" range="130" val="6" shooting="1"/>
+	<Enemy type="5" speed="3" life="830" damage="3" range="130" val="6" shooting="1"/>
+	<Enemy type="5" speed="3" life="830" damage="3" range="130" val="6" shooting="1"/>
+	<Enemy type="6" speed="3" life="830" damage="3" range="130" val="6" shooting="1"/>
+	<Enemy type="6" speed="3" life="830" damage="3" range="130" val="6" shooting="1"/>
+	<Enemy type="6" speed="3" life="830" damage="3" range="130" val="6" shooting="1"/>
+	<Enemy type="6" speed="3" life="830" damage="3" range="130" val="6" shooting="1"/>
+	<Enemy type="6" speed="3" life="830" damage="3" range="130" val="6" shooting="1"/>
+	<Enemy type="5" speed="3" life="830" damage="3" range="130" val="6" shooting="1"/>
+	<Enemy type="5" speed="3" life="830" damage="3" range="130" val="6" shooting="1"/>
+	<Enemy type="6" speed="3" life="830" damage="3" range="130" val="6" shooting="1"/>
+	<Enemy type="6" speed="3" life="830" damage="3" range="130" val="6" shooting="1"/>
+	<desc string = "Lizard and Lion attack... is it magic?" />
+  </Level>
+  
+  <Level number="18">
+	<Enemy type="4" speed="3" life="900" damage="3" range="130" val="6" shooting="1"/>
+	<Enemy type="5" speed="3" life="900" damage="3" range="130" val="6" shooting="0"/>
+	<Enemy type="6" speed="3" life="900" damage="3" range="130" val="6" shooting="0"/>
+	<Enemy type="4" speed="3" life="900" damage="3" range="130" val="6" shooting="1"/>
+	<Enemy type="4" speed="3" life="900" damage="3" range="130" val="6" shooting="0"/>
+	<Enemy type="5" speed="3" life="900" damage="3" range="130" val="6" shooting="1"/>
+	<Enemy type="5" speed="3" life="900" damage="3" range="130" val="6" shooting="0"/>
+	<Enemy type="6" speed="3" life="900" damage="3" range="130" val="6" shooting="1"/>
+	<Enemy type="6" speed="3" life="900" damage="3" range="130" val="6" shooting="0"/>
+	<Enemy type="5" speed="3" life="900" damage="3" range="130" val="6" shooting="0"/>
+	<Enemy type="5" speed="3" life="900" damage="3" range="130" val="6" shooting="0"/>
+	<Enemy type="4" speed="3" life="900" damage="3" range="130" val="6" shooting="1"/>
+	<Enemy type="4" speed="3" life="900" damage="3" range="130" val="6" shooting="1"/>
+	<Enemy type="6" speed="3" life="900" damage="3" range="130" val="6" shooting="0"/>
+	<Enemy type="5" speed="3" life="900" damage="3" range="130" val="6" shooting="1"/>
+	<Enemy type="4" speed="3" life="900" damage="3" range="130" val="6" shooting="1"/>
+	<Enemy type="5" speed="3" life="900" damage="3" range="130" val="6" shooting="0"/>
+	<Enemy type="6" speed="3" life="900" damage="3" range="130" val="6" shooting="1"/>
+	<Enemy type="5" speed="3" life="900" damage="3" range="130" val="6" shooting="0"/>
+	<Enemy type="4" speed="3" life="900" damage="3" range="130" val="6" shooting="1"/>
+	<desc string = "Demons, Lizard Mens and Lion Mens" />
+  </Level>
+ 
+   <Level number="19">
+	<Enemy type="9" speed="3" life="7500" damage="10" range="150" val="200" shooting="1"/>
+	<desc string = "Wizard attack..." />
+  </Level>
+  
+   <Level number="20">
+	<Enemy type="3" speed="3" life="950" damage="5" range="130" val="6" shooting="1"/>
+	<Enemy type="2" speed="3" life="950" damage="0" range="130" val="6" shooting="0"/>
+	<Enemy type="4" speed="3" life="950" damage="0" range="130" val="6" shooting="0"/>
+	<Enemy type="5" speed="3" life="950" damage="0" range="130" val="6" shooting="0"/>
+	<Enemy type="6" speed="3" life="950" damage="0" range="130" val="6" shooting="0"/>
+	<Enemy type="3" speed="3" life="950" damage="0" range="130" val="6" shooting="0"/>
+	<Enemy type="4" speed="3" life="950" damage="0" range="130" val="6" shooting="0"/>
+	<Enemy type="2" speed="3" life="950" damage="5" range="130" val="6" shooting="1"/>
+	<Enemy type="5" speed="3" life="950" damage="0" range="130" val="6" shooting="0"/>
+	<Enemy type="6" speed="3" life="950" damage="0" range="130" val="6" shooting="0"/>
+	<Enemy type="3" speed="3" life="950" damage="0" range="130" val="6" shooting="0"/>
+	<Enemy type="4" speed="3" life="950" damage="0" range="130" val="6" shooting="0"/>
+	<Enemy type="5" speed="3" life="950" damage="0" range="130" val="6" shooting="0"/>
+	<Enemy type="6" speed="3" life="950" damage="0" range="130" val="6" shooting="0"/>
+	<Enemy type="3" speed="3" life="950" damage="0" range="130" val="6" shooting="0"/>
+	<Enemy type="2" speed="3" life="950" damage="0" range="130" val="6" shooting="0"/>
+	<Enemy type="4" speed="3" life="950" damage="0" range="130" val="6" shooting="0"/>
+	<Enemy type="5" speed="3" life="950" damage="0" range="130" val="6" shooting="0"/>
+	<Enemy type="6" speed="3" life="950" damage="0" range="130" val="6" shooting="0"/>
+	<Enemy type="3" speed="3" life="950" damage="5" range="130" val="6" shooting="1"/>
+	<desc string = "Several armies together..." />
+  </Level>
+  
+   <Level number="21">
+	<Enemy type="0" speed="3" life="1000" damage="5" range="130" val="8" shooting="1"/>
+	<Enemy type="6" speed="3" life="1000" damage="5" range="130" val="8" shooting="1"/>
+	<Enemy type="0" speed="3" life="1000" damage="0" range="130" val="8" shooting="0"/>
+	<Enemy type="0" speed="3" life="1000" damage="0" range="130" val="8" shooting="0"/>
+	<Enemy type="0" speed="3" life="1000" damage="0" range="130" val="8" shooting="0"/>
+	<Enemy type="5" speed="3" life="1000" damage="0" range="130" val="8" shooting="0"/>
+	<Enemy type="5" speed="3" life="1000" damage="3" range="130" val="8" shooting="1"/>
+	<Enemy type="5" speed="3" life="1000" damage="3" range="130" val="8" shooting="1"/>
+	<Enemy type="0" speed="3" life="1000" damage="3" range="130" val="8" shooting="1"/>
+	<Enemy type="0" speed="3" life="1000" damage="5" range="130" val="8" shooting="1"/>
+	<Enemy type="0" speed="3" life="1000" damage="5" range="130" val="8" shooting="1"/>
+	<Enemy type="0" speed="3" life="1000" damage="3" range="130" val="8" shooting="1"/>
+	<Enemy type="0" speed="3" life="1000" damage="0" range="130" val="8" shooting="0"/>
+	<Enemy type="0" speed="3" life="1000" damage="0" range="130" val="8" shooting="0"/>
+	<Enemy type="5" speed="3" life="1000" damage="0" range="130" val="8" shooting="0"/>
+	<Enemy type="5" speed="3" life="1000" damage="0" range="130" val="8" shooting="0"/>
+	<Enemy type="0" speed="3" life="1000" damage="3" range="130" val="8" shooting="1"/>
+	<Enemy type="0" speed="3" life="1000" damage="3" range="130" val="8" shooting="1"/>
+	<Enemy type="0" speed="3" life="1000" damage="3" range="130" val="8" shooting="1"/>
+	<Enemy type="6" speed="3" life="1000" damage="3" range="130" val="8" shooting="1"/>
+	<desc string = "Rat scouts escorting Lion Men and Lizard Men leaders to safety. Show them who's boss!" />
+  </Level>  
+  
+   <Level number="22">
+	<Enemy type="3" speed="3" life="1100" damage="1" range="130" val="6" shooting="1"/>
+	<Enemy type="3" speed="3" life="1100" damage="1" range="130" val="6" shooting="1"/>
+	<Enemy type="3" speed="3" life="1100" damage="1" range="130" val="6" shooting="1"/>
+	<Enemy type="3" speed="3" life="1100" damage="1" range="130" val="6" shooting="1"/>
+	<Enemy type="3" speed="3" life="1100" damage="1" range="130" val="6" shooting="1"/>
+	<Enemy type="3" speed="3" life="1100" damage="1" range="130" val="6" shooting="1"/>
+	<Enemy type="3" speed="3" life="1100" damage="1" range="130" val="6" shooting="1"/>
+	<Enemy type="3" speed="3" life="1100" damage="1" range="130" val="6" shooting="1"/>
+	<Enemy type="3" speed="3" life="1100" damage="1" range="130" val="6" shooting="1"/>
+	<Enemy type="3" speed="3" life="1100" damage="1" range="130" val="6" shooting="1"/>
+	<Enemy type="3" speed="3" life="1100" damage="1" range="130" val="6" shooting="1"/>
+	<Enemy type="3" speed="3" life="1100" damage="1" range="130" val="6" shooting="1"/>
+	<Enemy type="3" speed="3" life="1100" damage="1" range="130" val="6" shooting="1"/>
+	<Enemy type="3" speed="3" life="1100" damage="1" range="130" val="6" shooting="1"/>
+	<Enemy type="3" speed="3" life="1100" damage="1" range="130" val="6" shooting="1"/>
+	<Enemy type="3" speed="3" life="1100" damage="1" range="130" val="6" shooting="1"/>
+	<Enemy type="3" speed="3" life="1100" damage="1" range="130" val="6" shooting="1"/>
+	<Enemy type="3" speed="3" life="1100" damage="1" range="130" val="6" shooting="1"/>
+	<Enemy type="3" speed="3" life="1100" damage="1" range="130" val="6" shooting="1"/>
+	<Enemy type="3" speed="3" life="1100" damage="1" range="130" val="6" shooting="1"/>
+	<desc string = "Archer's attack... Archers!!!" />
+  </Level>  
+  
+   <Level number="23">
+	<Enemy type="3" speed="3" life="1150" damage="1" range="130" val="8" shooting="0"/>
+	<Enemy type="3" speed="3" life="1150" damage="1" range="130" val="8" shooting="0"/>
+	<Enemy type="3" speed="3" life="1150" damage="1" range="130" val="8" shooting="0"/>
+	<Enemy type="3" speed="3" life="1150" damage="1" range="130" val="8" shooting="0"/>
+	<Enemy type="3" speed="3" life="1150" damage="1" range="130" val="8" shooting="0"/>
+	<Enemy type="3" speed="3" life="1150" damage="1" range="130" val="8" shooting="0"/>
+	<Enemy type="3" speed="3" life="1150" damage="1" range="130" val="8" shooting="0"/>
+	<Enemy type="3" speed="3" life="1150" damage="1" range="130" val="8" shooting="0"/>
+	<Enemy type="3" speed="3" life="1150" damage="1" range="130" val="8" shooting="0"/>
+	<Enemy type="3" speed="3" life="1150" damage="1" range="130" val="8" shooting="0"/>
+	<Enemy type="3" speed="3" life="1150" damage="1" range="130" val="8" shooting="0"/>
+	<Enemy type="3" speed="3" life="1150" damage="1" range="130" val="8" shooting="0"/>
+	<Enemy type="3" speed="3" life="1150" damage="1" range="130" val="8" shooting="0"/>
+	<Enemy type="3" speed="3" life="1150" damage="1" range="130" val="8" shooting="0"/>
+	<Enemy type="3" speed="3" life="1150" damage="1" range="130" val="8" shooting="0"/>
+	<Enemy type="3" speed="3" life="1150" damage="1" range="130" val="8" shooting="0"/>
+	<Enemy type="3" speed="3" life="1150" damage="1" range="130" val="8" shooting="0"/>
+	<Enemy type="3" speed="3" life="1150" damage="1" range="130" val="8" shooting="0"/>
+	<Enemy type="3" speed="3" life="1150" damage="1" range="130" val="8" shooting="0"/>
+	<Enemy type="3" speed="3" life="1150" damage="1" range="130" val="8" shooting="0"/>
+	<desc string = "Defend your self...!" />
+  </Level>  
+  
+   <Level number="24">
+	<Enemy type="3" speed="3" life="1250" damage="1" range="130" val="18" shooting="0"/>
+	<Enemy type="3" speed="3" life="1250" damage="1" range="130" val="18" shooting="0"/>
+	<Enemy type="3" speed="3" life="1250" damage="1" range="130" val="18" shooting="0"/>
+	<Enemy type="3" speed="3" life="1250" damage="1" range="130" val="18" shooting="0"/>
+	<Enemy type="3" speed="3" life="1250" damage="1" range="130" val="18" shooting="0"/>
+	<Enemy type="3" speed="3" life="1250" damage="1" range="130" val="18" shooting="0"/>
+	<Enemy type="3" speed="3" life="1250" damage="1" range="130" val="18" shooting="0"/>
+	<Enemy type="3" speed="3" life="1250" damage="1" range="130" val="18" shooting="0"/>
+	<Enemy type="3" speed="3" life="1250" damage="1" range="130" val="18" shooting="0"/>
+	<Enemy type="3" speed="3" life="1250" damage="1" range="130" val="18" shooting="0"/>
+	<Enemy type="3" speed="3" life="1250" damage="1" range="130" val="18" shooting="0"/>
+	<Enemy type="3" speed="3" life="1250" damage="1" range="130" val="18" shooting="0"/>
+	<Enemy type="3" speed="3" life="1250" damage="1" range="130" val="18" shooting="0"/>
+	<Enemy type="3" speed="3" life="1250" damage="1" range="130" val="18" shooting="0"/>
+	<Enemy type="3" speed="3" life="1250" damage="1" range="130" val="18" shooting="0"/>
+	<Enemy type="3" speed="3" life="1250" damage="1" range="130" val="18" shooting="0"/>
+	<Enemy type="3" speed="3" life="1250" damage="1" range="130" val="18" shooting="0"/>
+	<Enemy type="3" speed="3" life="1250" damage="1" range="130" val="18" shooting="0"/>
+	<Enemy type="3" speed="3" life="1250" damage="1" range="130" val="18" shooting="0"/>
+	<Enemy type="3" speed="3" life="1250" damage="1" range="130" val="18" shooting="0"/>
+	<desc string = "Last wave... Survive this and you are clear!" />
+  </Level> 
+  
+</TD>

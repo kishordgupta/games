@@ -1,0 +1,112 @@
+<TowerInformation>
+
+<Tower number = "1">
+  <Property maxLife="100" speed="20" damage="9" range="130" valor="25"/>
+  <speed_upgrade val="2" cost="5"/>
+  <speed_upgrade val="3" cost="15"/>
+  <speed_upgrade val="5" cost="25"/>
+  <speed_upgrade val="5" cost="25"/>
+  
+  <damage_upgrade val="3" cost="5"/>
+  <damage_upgrade val="5" cost="15"/>
+  <damage_upgrade val="10" cost="20"/>
+  <damage_upgrade val="10" cost="20"/>
+  
+  <range_upgrade val="10" cost="5"/>
+  <range_upgrade val="10" cost="15"/>
+  <range_upgrade val="10" cost="25"/>
+  <range_upgrade val="10" cost="25"/>
+</Tower>
+
+<Tower number = "2">
+  <Property maxLife="100" speed="20" damage="15" range="130" valor="40"/>
+  <speed_upgrade val="2" cost="5"/>
+  <speed_upgrade val="3" cost="20"/>
+  <speed_upgrade val="5" cost="30"/>
+  <speed_upgrade val="5" cost="30"/>
+  
+  <damage_upgrade val="4" cost="10"/>
+  <damage_upgrade val="6" cost="20"/>
+  <damage_upgrade val="11" cost="30"/>
+  <damage_upgrade val="11" cost="30"/>
+  
+  <range_upgrade val="10" cost="5"/>
+  <range_upgrade val="10" cost="18"/>
+  <range_upgrade val="10" cost="28"/>
+  <range_upgrade val="10" cost="28"/>
+</Tower>
+
+
+<Tower number = "3">
+  <Property maxLife="150" speed="18" damage="30" range="120" valor="75"/>
+  <speed_upgrade val="2" cost="5"/>
+  <speed_upgrade val="3" cost="20"/>
+  <speed_upgrade val="4" cost="30"/>
+  <speed_upgrade val="4" cost="30"/>
+  
+  <damage_upgrade val="10" cost="15"/>
+  <damage_upgrade val="15" cost="30"/>
+  <damage_upgrade val="35" cost="55"/>
+  <damage_upgrade val="35" cost="55"/>
+  
+  <range_upgrade val="10" cost="15"/>
+  <range_upgrade val="15" cost="25"/>
+  <range_upgrade val="15" cost="40"/>
+  <range_upgrade val="15" cost="40"/>
+</Tower>
+
+<Tower number = "4">
+  <Property maxLife="250" speed="15" damage="75" range="125" valor="110"/>
+  <speed_upgrade val="2" cost="20"/>
+  <speed_upgrade val="3" cost="40"/>
+  <speed_upgrade val="4" cost="65"/>
+  <speed_upgrade val="4" cost="65"/>
+  
+  <damage_upgrade val="21" cost="25"/>
+  <damage_upgrade val="38" cost="45"/>
+  <damage_upgrade val="70" cost="75"/>
+  <damage_upgrade val="70" cost="75"/>
+  
+  <range_upgrade val="10" cost="20"/>
+  <range_upgrade val="15" cost="35"/>
+  <range_upgrade val="25" cost="65"/>
+  <range_upgrade val="25" cost="65"/>
+</Tower>
+
+<Tower number = "5">
+  <Property maxLife="350" speed="10" damage="130" range="140" valor="175"/>
+  <speed_upgrade val="2" cost="30"/>
+  <speed_upgrade val="2" cost="55"/>
+  <speed_upgrade val="4" cost="80"/>
+  <speed_upgrade val="4" cost="80"/>
+  
+  <damage_upgrade val="30" cost="45"/>
+  <damage_upgrade val="60" cost="70"/>
+  <damage_upgrade val="100" cost="100"/>
+  <damage_upgrade val="100" cost="100"/>
+  
+  <range_upgrade val="10" cost="25"/>
+  <range_upgrade val="15" cost="45"/>
+  <range_upgrade val="25" cost="70"/>
+  <range_upgrade val="25" cost="70"/>
+</Tower>
+
+<Tower number = "6">
+  <Property maxLife="500" speed="5" damage="200" range="100" valor="250"/>
+  <speed_upgrade val="2" cost="35"/>
+  <speed_upgrade val="3" cost="65"/>
+  <speed_upgrade val="5" cost="100"/>
+  <speed_upgrade val="5" cost="100"/>
+  
+  <damage_upgrade val="50" cost="40"/>
+  <damage_upgrade val="100" cost="75"/>
+  <damage_upgrade val="180" cost="130"/>
+  <damage_upgrade val="180" cost="130"/>
+  
+  <range_upgrade val="10" cost="35"/>
+  <range_upgrade val="20" cost="65"/>
+  <range_upgrade val="25" cost="100"/>
+  <range_upgrade val="25" cost="100"/>
+</Tower>
+
+</TowerInformation>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Ragdoll</key>
+	<dict>
+		<key>Doll0</key>
+		<dict>
+			<key>X</key>
+			<integer>150</integer>
+			<key>Y</key>
+			<integer>150</integer>
+		</dict>
+		<key>Doll1</key>
+		<dict>
+			<key>X</key>
+			<integer>350</integer>
+			<key>Y</key>
+			<integer>150</integer>
+		</dict>
+		<key>Doll2</key>
+		<dict>
+			<key>X</key>
+			<integer>250</integer>
+			<key>Y</key>
+			<integer>250</integer>
+		</dict>
+	</dict>
+	<key>Platform</key>
+	<dict>
+		<key>PF0</key>
+		<dict>
+			<key>X</key>
+			<integer>150</integer>
+			<key>Y</key>
+			<integer>100</integer>
+			<key>H</key>
+			<integer>30</integer>
+			<key>W</key>
+			<integer>8</integer>
+		</dict>
+		<key>PF1</key>
+		<dict>
+			<key>X</key>
+			<integer>350</integer>
+			<key>Y</key>
+			<integer>100</integer>
+			<key>H</key>
+			<integer>30</integer>
+			<key>W</key>
+			<integer>8</integer>
+		</dict>
+		<key>PF2</key>
+		<dict>
+			<key>X</key>
+			<integer>250</integer>
+			<key>Y</key>
+			<integer>200</integer>
+			<key>H</key>
+			<integer>30</integer>
+			<key>W</key>
+			<integer>8</integer>
+		</dict>
+	</dict>
+</dict>
+</plist>

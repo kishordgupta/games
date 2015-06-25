@@ -1,0 +1,140 @@
+<?xml version="1.0"?>
+<GameConfig><StartRopes><Rope Number="0" Type="">
+<RopeNode nodeNumber="0" x="32" y="114" />
+<RopeNode nodeNumber="1" x="75" y="131" />
+<RopeNode nodeNumber="2" x="125" y="151" />
+<RopeNode nodeNumber="3" x="159" y="157" />
+<RopeNode nodeNumber="4" x="199" y="163" />
+<RopeNode nodeNumber="5" x="222" y="163" />
+<RopeNode nodeNumber="6" x="260" y="158" />
+<RopeNode nodeNumber="7" x="290" y="146" />
+<RopeNode nodeNumber="8" x="332" y="119" />
+<RopeNode nodeNumber="9" x="360" y="102" />
+<RopeNode nodeNumber="10" x="392" y="93" />
+<RopeNode nodeNumber="11" x="431" y="90" />
+<RopeNode nodeNumber="12" x="463" y="97" />
+<RopeNode nodeNumber="13" x="486" y="111" />
+<RopeNode nodeNumber="14" x="505" y="133" />
+<RopeNode nodeNumber="15" x="531" y="166" />
+<RopeNode nodeNumber="16" x="553" y="186" />
+<RopeNode nodeNumber="17" x="572" y="204" />
+<RopeNode nodeNumber="18" x="597" y="227" />
+<RopeNode nodeNumber="19" x="620" y="243" />
+<RopeNode nodeNumber="20" x="652" y="256" />
+<RopeNode nodeNumber="21" x="683" y="264" />
+</Rope><Rope Number="1" Type="">
+<RopeNode nodeNumber="0" x="695" y="286" />
+<RopeNode nodeNumber="1" x="841" y="344" />
+<RopeNode nodeNumber="2" x="856" y="359" />
+<RopeNode nodeNumber="3" x="870" y="381" />
+<RopeNode nodeNumber="4" x="884" y="408" />
+<RopeNode nodeNumber="5" x="894" y="432" />
+<RopeNode nodeNumber="6" x="905" y="456" />
+<RopeNode nodeNumber="7" x="917" y="483" />
+<RopeNode nodeNumber="8" x="927" y="508" />
+<RopeNode nodeNumber="9" x="939" y="532" />
+<RopeNode nodeNumber="10" x="956" y="555" />
+<RopeNode nodeNumber="11" x="972" y="570" />
+<RopeNode nodeNumber="12" x="1000" y="576" />
+<RopeNode nodeNumber="13" x="1026" y="576" />
+<RopeNode nodeNumber="14" x="1058" y="573" />
+<RopeNode nodeNumber="15" x="1085" y="565" />
+<RopeNode nodeNumber="16" x="1109" y="543" />
+<RopeNode nodeNumber="17" x="1127" y="513" />
+<RopeNode nodeNumber="18" x="1139" y="479" />
+<RopeNode nodeNumber="19" x="1148" y="446" />
+<RopeNode nodeNumber="20" x="1345" y="514" />
+</Rope><Rope Number="2" Type="">
+<RopeNode nodeNumber="0" x="1364" y="546" />
+<RopeNode nodeNumber="1" x="1588" y="629" />
+</Rope><Rope Number="3" Type="lift.down">
+<RopeNode nodeNumber="0" x="1595" y="645" />
+<RopeNode nodeNumber="1" x="1732" y="645" />
+</Rope><Rope Number="4" Type="">
+<RopeNode nodeNumber="0" x="1738" y="872" />
+<RopeNode nodeNumber="1" x="1836" y="944" />
+<RopeNode nodeNumber="2" x="1943" y="922" />
+</Rope><Rope Number="5" Type="">
+<RopeNode nodeNumber="0" x="1968" y="957" />
+<RopeNode nodeNumber="1" x="2109" y="957" />
+<RopeNode nodeNumber="2" x="2194" y="907" />
+</Rope><Rope Number="6" Type="">
+<RopeNode nodeNumber="0" x="2209" y="950" />
+<RopeNode nodeNumber="1" x="2414" y="950" />
+<RopeNode nodeNumber="2" x="2434" y="946" />
+<RopeNode nodeNumber="3" x="2455" y="937" />
+<RopeNode nodeNumber="4" x="2470" y="917" />
+<RopeNode nodeNumber="5" x="2484" y="893" />
+<RopeNode nodeNumber="6" x="2495" y="869" />
+<RopeNode nodeNumber="7" x="2505" y="843" />
+<RopeNode nodeNumber="8" x="2516" y="819" />
+<RopeNode nodeNumber="9" x="2536" y="801" />
+<RopeNode nodeNumber="10" x="2558" y="794" />
+<RopeNode nodeNumber="11" x="2579" y="793" />
+<RopeNode nodeNumber="12" x="2594" y="798" />
+<RopeNode nodeNumber="13" x="2608" y="815" />
+<RopeNode nodeNumber="14" x="2620" y="833" />
+<RopeNode nodeNumber="15" x="2631" y="856" />
+<RopeNode nodeNumber="16" x="2642" y="877" />
+<RopeNode nodeNumber="17" x="2652" y="900" />
+<RopeNode nodeNumber="18" x="2662" y="927" />
+<RopeNode nodeNumber="19" x="2676" y="953" />
+<RopeNode nodeNumber="20" x="2685" y="970" />
+<RopeNode nodeNumber="21" x="2693" y="982" />
+<RopeNode nodeNumber="22" x="2706" y="999" />
+<RopeNode nodeNumber="23" x="2716" y="1010" />
+<RopeNode nodeNumber="24" x="2728" y="1022" />
+<RopeNode nodeNumber="25" x="2737" y="1029" />
+<RopeNode nodeNumber="26" x="2753" y="1038" />
+<RopeNode nodeNumber="27" x="2775" y="1040" />
+<RopeNode nodeNumber="28" x="2805" y="1031" />
+<RopeNode nodeNumber="29" x="2820" y="1023" />
+<RopeNode nodeNumber="30" x="2839" y="1004" />
+<RopeNode nodeNumber="31" x="2851" y="984" />
+<RopeNode nodeNumber="32" x="2860" y="967" />
+<RopeNode nodeNumber="33" x="2869" y="945" />
+<RopeNode nodeNumber="34" x="2876" y="926" />
+<RopeNode nodeNumber="35" x="2883" y="911" />
+<RopeNode nodeNumber="36" x="3028" y="886" />
+</Rope><Rope Number="7" Type="">
+<RopeNode nodeNumber="0" x="3034" y="897" />
+<RopeNode nodeNumber="1" x="3140" y="897" />
+</Rope><Rope Number="8" Type="">
+<RopeNode nodeNumber="0" x="3162" y="925" />
+<RopeNode nodeNumber="1" x="3277" y="890" />
+</Rope><Rope Number="9" Type="lift.up">
+<RopeNode nodeNumber="0" x="3283" y="897" />
+<RopeNode nodeNumber="1" x="3371" y="897" />
+</Rope><Rope Number="10" Type="">
+<RopeNode nodeNumber="0" x="3377" y="647" />
+<RopeNode nodeNumber="1" x="3612" y="573" />
+</Rope><Rope Number="11" Type="">
+<RopeNode nodeNumber="0" x="3636" y="694" />
+<RopeNode nodeNumber="1" x="3796" y="695" />
+<RopeNode nodeNumber="2" x="3869" y="742" />
+<RopeNode nodeNumber="3" x="3960" y="742" />
+<RopeNode nodeNumber="4" x="4016" y="673" />
+<RopeNode nodeNumber="5" x="4101" y="673" />
+<RopeNode nodeNumber="6" x="4160" y="655" />
+</Rope><Rope Number="12" Type="">
+<RopeNode nodeNumber="0" x="4168" y="687" />
+<RopeNode nodeNumber="1" x="4376" y="590" />
+<RopeNode nodeNumber="2" x="4636" y="643" />
+<RopeNode nodeNumber="3" x="4749" y="716" />
+<RopeNode nodeNumber="4" x="4827" y="675" />
+<RopeNode nodeNumber="5" x="4893" y="630" />
+<RopeNode nodeNumber="6" x="4942" y="595" />
+<RopeNode nodeNumber="7" x="4980" y="621" />
+<RopeNode nodeNumber="8" x="5009" y="643" />
+<RopeNode nodeNumber="9" x="5089" y="606" />
+<RopeNode nodeNumber="10" x="5120" y="570" />
+<RopeNode nodeNumber="11" x="5143" y="609" />
+<RopeNode nodeNumber="12" x="5254" y="659" />
+<RopeNode nodeNumber="13" x="5302" y="621" />
+<RopeNode nodeNumber="14" x="5322" y="668" />
+<RopeNode nodeNumber="15" x="5471" y="668" />
+</Rope><Rope Number="13" Type="">
+<RopeNode nodeNumber="0" x="5484" y="707" />
+<RopeNode nodeNumber="1" x="5622" y="746" />
+<RopeNode nodeNumber="2" x="5992" y="746" />
+</Rope></StartRopes><StartJoints /><StartElement /><StartTransporter /></GameConfig>
